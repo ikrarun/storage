@@ -1,18 +1,21 @@
-# Sample Blog Post Title
+# Tips to Reduce Screen Time
 
-**Author:** John Doe  
-**Date:** 2022-01-01  
-**Tags:** Tech, Programming  
-**Featured Image:** ![Featured Image](https://example.com/image.jpg)
+In today's digital age, reducing screen time is essential for our well-being. Here are some tips to help you minimize your screen time:
 
-## Introduction
+1. **Take Breaks**: Remember to take regular breaks from screens to rest your eyes and mind.
 
-This is a sample blog post written in MDX.
+![Take Breaks](https://picsum.photos/800/400)
 
-### Section 1
+2. **Engage in Outdoor Activities**: Spend time outdoors and engage in physical activities to reduce screen dependency.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+![Outdoor Activities](https://picsum.photos/800/400)
 
-### Section 2
+3. **Set Screen Time Limits**: Use apps or features that help you set limits on your screen time usage.
 
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![Screen Time Limits](https://picsum.photos/800/400)
+
+4. **Create Tech-Free Zones**: Designate areas in your home as tech-free zones to encourage screen-free activities.
+
+![Tech-Free Zones](https://picsum.photos/800/400)
+
+Remember, balance is key when it comes to screen time. Take steps to reduce your screen time and prioritize your well-being.
