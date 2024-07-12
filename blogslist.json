@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Sample Blog Post Title 1",
+            "author": "John Doe",
+            "date": "2022-01-01",
+            "summary": "This is a summary of the first blog post.",
+            "link": "./blog-post-1"
+        },
+        {
+            "id": 2,
+            "title": "Sample Blog Post Title 2",
+            "author": "Jane Smith",
+            "date": "2022-01-15",
+            "summary": "Summary of the second blog post.",
+            "link": "./blog-post-2"
+        }
+    ]
+}
